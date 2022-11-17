@@ -1,0 +1,6 @@
+id,customer_name,customer_address,customer_phone,customer_id,status,product_id
+12,Olivia Smith,SK4 1JB,78596856,6,Delivered,"10,11"
+13,George Ward,SK3 9QY,7896532589,5,Prepring,"8,3,11"
+14,Jessica Evans,M20 4YB,7896523589,7,Prepring,"2,2,10,11"
+15,James,SK4 1JB,99999999,4,Preparing,"9,10,11"
+19,Jean,SK4 IJB,78596543,7,Preparing,"12,10,9"
